@@ -25,7 +25,26 @@ These case studies demonstrate the application of data visualisation principles 
 - Storytelling with data  
 - Annotated and comparative chart design  
 - Use of colour, layout, and pre-attentive attributes  
-- Audience-driven design choices  
+- Audience-driven design choices
+
+## 📂 Repository Structure  
+
+- `Portfolio.Rmd` → Main R Markdown file containing the full portfolio analysis and visualisations.  
+- `Portfolio.html` → Knitted HTML version of the portfolio (viewable via GitHub Pages).  
+- `README.md` → Overview of the repository, case studies, and file descriptions.  
+
+### 📝 Case Studies  
+- `Part A/Case-Study-A--n11688751-.html` → Case Study A: Evaluation of an existing data visualisation and critique based on storytelling principles.  
+- `Part B/Case-Study-Part-B.html` → Case Study B: Redesign of a data visualisation with justifications for improvements.  
+
+### 📊 Data  
+- `forest_area.csv` → Dataset used for radar and alluvial visualisations of forest area by continent and country.  
+- `w7/data/` → Farm datasets for cattle movement network visualisations (Week 7 practical).  
+- `invasive_plant_rasters_2019/` → Raster datasets of invasive plant distributions in Minnesota (used in Week 10 mapping tasks).  
+- `whiskey_data/whiskey_data/` → Whiskey sales and location datasets for Tasmanian whiskey trade mapping.  
+
+### 📖 Reference  
+- `Davis et al 2015.pdf` → Reading used in Week 3 task on science communication and visual storytelling.
 
 ## How to View  
 Click links to open reports:
