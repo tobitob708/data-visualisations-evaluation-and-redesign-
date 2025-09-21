@@ -29,5 +29,5 @@ These case studies demonstrate the application of data visualisation principles 
 
 ## How to View  
 Click links to open reports:
-- [Case Study A](https://tobitob708.github.io/data-visualisations-evaluation-and-redesign-/Part%20A/Case-Study-A--n11688751-.html))
-- [Case Study B](https://tobitob708.github.io/data-visualisations-evaluation-and-redesign-/Part-B/Case-Study-Part-B.html)
+- [Case Study A](https://tobitob708.github.io/data-visualisations-evaluation-and-redesign-/Part%20A/Case-Study-A--n11688751-.html)
+- [Case Study B](https://tobitob708.github.io/data-visualisations-evaluation-and-redesign-/Part%20B/Case-Study-Part-B.html)
