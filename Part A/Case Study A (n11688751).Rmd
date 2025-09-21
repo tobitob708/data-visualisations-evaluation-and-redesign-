@@ -1,0 +1,65 @@
+---
+title: "Case Study A"
+author: "Siti Keisha Nikola (n11688751)"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Part A
+
+## 1.0 Visualisation Descriptions  
+
+### 1.1 Visualisation 1  
+![Death cause statistics in my public Hardcore Minecraft server (OC)](https://preview.redd.it/death-cause-statistics-in-my-public-hardcore-minecraft-v0-t8n3lmdjiz2d1.png?width=1202&format=png&auto=webp&s=086c35ccbb9594df546ac611bc94e213994822b1){width=80%}   
+
+[URL](https://www.reddit.com/r/dataisbeautiful/comments/1d1tosa/death_cause_statistics_in_my_public_hardcore/)
+
+This visualisation is an original creation by Reddit user u/PlayHotdogWater from r/dataisbeautiful on Reddit. It is a horizontal bar chart of the number of deaths caused by various *mobs* (living entity in the game) in the user’s public *Hardcore Minecraft* server.
+
+
+### 1.2 Visualisation 2  
+![(OC) Largest celebrity divorce settlements](https://preview.redd.it/largest-celebrity-divorce-settlements-v0-9y4ttaulaqha1.png?auto=webp&s=244c882f53a791f14fcaa11d0518a0582b3553c2){width=80%}  
+
+[URL](https://www.reddit.com/r/dataisbeautiful/comments/110by4y/oc_largest_celebrity_divorce_settlements/?rdt=34955)  
+
+This visualisation is created by Reddit user u/giteam from r/dataisbeautiful on Reddit. It shows a horizontal lollipop chart representing the largest celebrity divorce settlements.
+
+## 2.0 Audience and Action Suitability 
+
+### 2.1 Visualisation 1
+The visualisation targets an audience familiar with the game *Minecraft*, including *Minecraft* players and community members. The action aims to raise awareness of the different levels of danger posed by various *mobs* to enhance player understanding of the game environment and reflecting *mob* risk to strategise gameplay effectively. The visualisation is static and reader-driven, allowing viewers to explore the visualisation independently. The data supports the intended purpose through the use of a horizontal bar chart, which effectively represents varying danger levels. All components align closely with the game’s aesthetics, creating an engaging and familiar atmosphere for the audience. The bars are designed to represent each *mob*, making them recognisable to the intended audience. Overall, the visualisation supports the intended action to its target audience.
+
+
+### 2.2 Visualisation 2
+The visualisation targets individuals interested in celebrity culture or high-profile legal cases, such as divorce lawyers. Its intention is to highlight and compare the scale of wealth for divorce settlements made by celebrities, emphasising the extreme amounts exchanged. It is a static and reader-driven, allowing viewers to explore the data independently. It is represented by a horizontal lollipop chart which provides an intuitive visual comparison of figures. Overall, this visualisation effectively conveys the intended message and the significance of celebrity divorce settlements.
+
+## 3.0 Critical Evaluation of Structure  
+
+### 3.1 Visualisation 1   
+This visualisation uses data to show the total number of player deaths caused by various *Minecraft mobs* to highlight which *mobs* are the most dangerous in the game. The data is presented with a horizontal bar chart where each row represents a different *Minecraft mob* and the number of deaths is shown through the bar's length. The chart is ranked in descending order to improve comparability. However, the title of the visualisation, "Death", lacks clarity as it does not specify the players' deaths caused by various *mobs*. In addition, the y-axis label, "Mob deaths", may be misinterpreted as the number of mobs that died, rather than the number of deaths they caused. In conclusion, while the structure supports effective data comparison, unclear labeling reduces effectiveness in communicating its intended message.
+
+### 3.2 Visualisation 2  
+This visualisation uses data from Wikipedia on the largest divorce settlement amounts from celebrity couples to emphasise the financial scale and public interest in the seperations of high-profile individuals. The data is presented as a horizontal lollipop chart. Each row represents a celebrity couple involved in high divorce settlements, structured in a horizontal timeline and ranking of the amount on the y-axis. Overall, it is effective as it clearly conveys the significant disparities in divorce settlements, allowing viewers to easily compare the financial impacts of these separations.
+
+## 4.0 Critical Evaluation of Aesthetic Choices  
+
+### 4.1 Visualisation 1   
+The design aligns with its target audience through *Minecraft*'s pixel fonts, *mob* icons, and game-themed styling. The dark, semi-transparent background enhances bar's visibility. *Mob* head icons aid recognition, even for viewers who are unfamiliar with the mobs' names. However, several aesthetic issues limit its effectiveness. Some *mob* head icons are not fully displayed due to bar scaling, which affects clarity. Icons for *Piglin* and *Piglin Brute* are almost identical, distinguished only by subtle mark on *Piglin Brute*'s top right, which makes them hard to differentiate when the icon is cropped. Furthermore, inconsistent label formatting for *Piglin Brute* and *Wither Skeleton* can be confusing, as the two-word labels appear on two separate lines. To summarise, the design choice is effective but several inconsistencies reduce clarity.
+
+
+### 4.2 Visualisation 2
+The visualisation features a light-neutral colour and simple fonts for readability. Celebrity images in the bubbles help with recognition. However, the layout appears to be visually cluttered, making it difficult to pinpoint focus. This happens because the size of some bubbles are too large for the chart. Also, legend and additional information boxes are placed inside the chart, which further add to the clutter. Additionally, the use of bubbles presents a challenge to determine the year of divorce, as it is unclear whether it occurred at the beginning or the end of each bubble. This complicates the understanding of the timeline. In summary, the visualisation is not effective due to excessive clutter and difficulty in interpreting key aspects of the data.
+
+
+## 5.0 Recommendations  
+
+### 5.1 Visualisation 1 
+The title could be revised to be more descriptive, e.g. *Players' Deaths Caused by Various Mobs in a Public Hardcore Minecraft Server*. This change provides more information to the data, thus helping viewers grasp the main topic and avoid misinformation. Next, extending the length of the bars ensures *mob* icons are fully visible therefore increasing accurate identification. Lastly, ambiguity in the y-axis label "Mob Death" can be reduced by elongating the separator between the *mob* name and the number of deaths. This helps to clearly distinguish "Mob" and "Death".
+
+### 5.2 Visualisation 2  
+Highlighting Jeff Bezos' settlement as an outlier is recommended due to its significant difference from the rest. This can be achieved by using a distinct colour and showing the bubbles in two sizes: a larger one for Bezos and a smaller, consistent size for others instead of scaling based on value. Each method emphasises the outlier, further highlighting disparity. In addition, the legend and additional details should be repositioned outside the main chart to reduce clutter and improve readability. Finally, changing the y-axis label to "Amount of Divorce Settlement ($)" will provide clearer insight into increasing settlement values shown.
